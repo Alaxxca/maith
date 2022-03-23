@@ -1,1 +1,1 @@
-# maith
+Maith is a discontinued application, due to lack of time, but it was a bot made in the AOI.JS/DBD language. I will publish it to make life easier for those who want to learn this perfect language for beginners, now I will focus on python or maybe lua, thanks for your attention, take care of maith with affection!
